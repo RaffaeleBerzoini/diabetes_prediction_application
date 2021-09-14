@@ -20,5 +20,5 @@
                                                
   1. Insert the values requires by the application
   2. Select the binaries variables using the designated buttons
-  3a. Select the "Confirm" button to receive the prediction
+  3. Select the "Confirm" button to receive the prediction
   3b. Use the "Reset" button to clear all fields
