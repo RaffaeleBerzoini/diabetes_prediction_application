@@ -196,14 +196,14 @@ def confirmation():
 
     if all_valid:
         if all_binary_values_inserted():
-            print("all OK")
+            # print("all OK")
             error_labels[9].config(text=' ')
             result, votes = prediction()
             printOutcome(result, votes)
         else:
             error_labels[9].config(text='You have to select every option')
 
-    print(patient_data)
+    # print(patient_data)
 
 
 def scale_vals(x_ann):
