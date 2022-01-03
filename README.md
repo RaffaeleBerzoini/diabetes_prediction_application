@@ -18,6 +18,6 @@
                                                
 ## Use of the application
                                                
-  1. Insert the values requires by the application
+  1. Insert the values required by the application
   2. Select the binaries variables using the designated buttons
   3. Select the "Confirm" button to receive the prediction or use the "Reset" button to clear all fields
