@@ -13,7 +13,7 @@
     ```
   This command can take few minutes to install tensorflow.
   
-  When starting the application a tensorflow error could appear on the terminal if a GPU on your machine hasn't been set up. You can ignore it and keep using the application 
+  When starting the application a tensorflow warning could appear on the terminal if a GPU on your machine hasn't been set up. You can ignore it and keep using the application 
   
                                                
 ## Use of the application
