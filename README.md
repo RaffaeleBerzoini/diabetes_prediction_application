@@ -10,6 +10,7 @@
 - Install the required python3 packages with the following command
     ```shell
     > pip install -r requirements.txt
+    > python gui.py
     ```
   This command can take few minutes to install tensorflow.
   
